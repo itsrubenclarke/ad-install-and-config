@@ -2,13 +2,16 @@
 <img src="https://github.com/user-attachments/assets/ea8315b8-28f8-4d0a-a370-917bdc1c56f3" height="30%" width="50%" alt="Microsoft Azure Logo"/>
 </p>
 
-<h1>Active Directory: Virtual Machine Deployment</h1>
+<h1>Active Directory: Installation and Configuration</h1>
 
 <p> 
 This project is the second amongst a collection focused on implementing Azure and Active Directory.
-The goal here is to create a basic lab that mirrors a real working network environment, providing me with hands-on-learning and practical experience with Microsoft Azure, PowerShell and WireShark.
-In this project, I will set up and establish a connection between two virtual machines using Windows and Linux in Microsoft Azure's Cloud environment. 
-This will allow me to perform a basic network traffic inspection using WireShark and implement some Network Security Group rules to block, re-enable and observe different traffic types.
+The goal here is to install Active Directory on the Domain controller 
+  .
+  .
+  .
+  .
+  .
 </p>
 
 <h2>Prerequisites</h2>
