@@ -35,7 +35,7 @@ This project is the second in a collection focused on implementing Azure and Act
 <p>
   <h3>Domain Joining</h3>
 
-  - Integrate the client-01 Virtual Machine into the established domain, ensuring seamless communication with the Active Directory infrastructure
+  - Integrate the client-1 Virtual Machine into the established domain, ensuring seamless communication with the Active Directory infrastructure
 </p>
 
 <p>
