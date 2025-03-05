@@ -72,7 +72,7 @@ This project is the second in a collection focused on implementing Azure and Act
 
 <img width="1782" alt="Add Roles and Features" src="https://github.com/user-attachments/assets/ee3bb062-9458-410c-9cd5-7b02d667c097" />
 
-- Select the "Active Directory Domain Services" Role when prompoted
+- Select the "Active Directory Domain Services" Role when prompted
 
 <img width="1781" alt="Active Directory Domain Services" src="https://github.com/user-attachments/assets/1cf68af6-2eda-49b0-966b-6030ee5a9984" />
 
