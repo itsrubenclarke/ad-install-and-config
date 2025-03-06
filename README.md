@@ -127,7 +127,7 @@ This project is the second in a collection focused on implementing Azure and Act
 
 
 
-- Right click "mydomain.com" and click referesh to sort the new organisational units to the top.
+- Right click "mydomain.com" and click Refresh to sort the new organisational units to the top.
 - Select the "_ADMINS" organisational unit
 - Right click and select "New"
 - Select "User" and create a user with the following details
