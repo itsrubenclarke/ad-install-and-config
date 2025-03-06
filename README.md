@@ -159,7 +159,7 @@ This project is the second in a collection focused on implementing Azure and Act
 <img width="1788" alt="Login" src="https://github.com/user-attachments/assets/569b3f89-0742-4a42-8f0a-f186d524a405" />
 
 
-<h3>Step 3: Setup Remote Desktop for non-adminitrative users on Client-1</h3>
+<h3>Step 3: Setup Remote Desktop for non-administrative users on Client-1</h3>
 
 - Connect to Client-1 Virtual Machine
 - Use mydomain.com\jane_admin
