@@ -142,7 +142,7 @@ This project is the second in a collection focused on implementing Azure and Act
 <img width="1789" alt="Password" src="https://github.com/user-attachments/assets/976adf6e-d600-4f5b-bf77-2dbf3fa77e98" />
 
 - Open the "_ADMINS" organisational unit
-- Right click on "Jane Doe"
+- Right-click on "Jane Doe"
 - Select "Properties"
 - Open the "Member of" tab
 - Select "Add"
