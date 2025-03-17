@@ -77,7 +77,7 @@ This project is the second in a collection focused on implementing Azure and Act
 <img width="1781" alt="Active Directory Domain Services" src="https://github.com/user-attachments/assets/1cf68af6-2eda-49b0-966b-6030ee5a9984" />
 
 - When confirming the Installation selections on the final window select the "Restart if required" check box
-- Select "Install" then close window once complete
+- Select "Install" then close the window once complete
   
 <img width="1780" alt="Restart if required" src="https://github.com/user-attachments/assets/98b9eac9-f238-488d-bff0-2af794d3140e" />
 
