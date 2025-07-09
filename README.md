@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ea8315b8-28f8-4d0a-a370-917bdc1c56f3" height="200%" width="50%" alt="Microsoft Azure Logo"/>
+<img src="https://github.com/user-attachments/assets/ea8315b8-28f8-4d0a-a370-917bdc1c56f3" height="300%" width="50%" alt="Microsoft Azure Logo"/>
 </p>
 
 <h1>Active Directory: Installation and Configuration</h1>
